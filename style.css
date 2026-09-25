@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(image/signbg.jpeg);
+    background-image: url(signbg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -27,7 +27,7 @@ body{
         0 0 10px yellow;
 }
 .box1{
-    background-image: url(image/box1.jpeg);
+    background-image: url(box1.jpeg);
     background-size: cover;
 }
 h2{
