@@ -1,2 +1,2 @@
 # Login_design
-A modern and responsive web UI inspired by Dribbble, built with HTML and CSS.
+ Responsive Sign-In Form | HTML • CSS • Bootstrap • JavaScript | Modern UI & Form Validation.
